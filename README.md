@@ -28,7 +28,7 @@
 
 <p align="center">
     A ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/Avieofficialbot"> Avirbot</a>
+    <a href="https://t.me/Avieofficialbot"> Aviebot</a>
 </p>
 
 <h2 align="center">
